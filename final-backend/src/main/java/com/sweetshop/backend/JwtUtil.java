@@ -15,7 +15,7 @@ import java.util.function.Function;
 public class JwtUtil {
 
     // Forcing a default fallback string that is intentionally extremely long to guarantee it passes the 256-bit security check
-    @Value("${jwt.secret:ThisIsAnExtremelySecureAndLongSecretKeyForSweetShopManagementSystem1234567890!}")
+    @Value("${JWT_SECRET:ThisIsAFallbackLocalKeyThatIsAtLeastThirtyTwoCharsLong!!}")
     private String secret;
 
     // --- NEW: Helper to generate a mathematically secure Key object ---

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SweetShopBackend",
+            "request": "launch",
+            "mainClass": "com.sweetshop.backend.BackendApplication",
+            "projectName": "sweet-shop-backend",
+            "env": {
+                "DB_PASSWORD": "Chirag100+++",
+                "JWT_SECRET": "MySuperSecretKeyForSweetShopManagementSystemWhichIsVerySecure123!"
+            }
+        }
+    ]
+}
