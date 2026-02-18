@@ -3,11 +3,11 @@ A professional, full-stack inventory and sales management system designed for sw
 
 
 🚀 Live Links
-Frontend (Vercel): [https://your-app-name.vercel.app](https://sweet-shop-full-stack.vercel.app/)
+Frontend (Vercel): [https://sweet-shop-full-stack.vercel.app](https://sweet-shop-full-stack.vercel.app/)
 
-Backend API (Render): [https://sweet-shop-backend.onrender.com](https://sweet-shop-fullstack-jthb.onrender.com/)
+Backend API (Render): [https://sweet-shop-fullstack-jthb.onrender.com](https://sweet-shop-fullstack-jthb.onrender.com/)
 
-Database (Supabase): [Managed PostgreSQL instance.](https://xawksevwhwrdvnmhydmo.supabase.co)
+Database (Supabase): [Managed PostgreSQL instance](https://xawksevwhwrdvnmhydmo.supabase.co)
 
 
 🛠️ Tech Stack
@@ -37,21 +37,21 @@ Frontend
 
 - Smart Inventory Dashboard: Visual display of sweets with a custom-built color-hashing algorithm for card headers.
 
--Stock Management:
+- Stock Management:
 
-   ->Add: Integrated admin interface to input sweet names, prices, and quantities.
+      Add: Integrated admin interface to input sweet names, prices, and quantities.
 
-   ->Purchase: Real-time stock reduction upon purchase with "Sold Out" state handling.
+      Purchase: Real-time stock reduction upon purchase with "Sold Out" state handling.
 
-   ->Delete: Full CRUD functionality to remove inventory items.
+      Delete: Full CRUD functionality to remove inventory items.
 
-   ->Search & Organize:
+      Search & Organize:
 
-   ->Live Search: Filter sweets instantly by name.
+      Live Search: Filter sweets instantly by name.
 
-   ->Dynamic Sorting: Organize by price (High to Low / Low to High) or newest additions.
+      Dynamic Sorting: Organize by price (High to Low / Low to High) or newest additions.
 
-   ->Responsive UX: Mobile-first design using CSS Flexbox and Grid, featuring entrance animations and floating effects.
+      Responsive UX: Mobile-first design using CSS Flexbox and Grid, featuring entrance animations and floating effects.
 
 
 ⚙️ Local Setup Instructions
@@ -66,21 +66,21 @@ Follow these steps to set up the development environment.
 
 2. Backend Configuration (final-backend)
 
-  a. Navigate to the directory: cd final-backend.
+- Navigate to the directory: cd final-backend.
 
-  b. Open src/main/resources/application.properties.
+- Open src/main/resources/application.properties.
 
-  c. Configure your environment variables or local properties
+- Configure your environment variables or local properties
 
-  d. Run the application using your IDE or Maven: ./mvnw spring-boot:run.
+- Run the application using your IDE or Maven: ./mvnw spring-boot:run.
 
 3. Frontend Configuration (final-frontend)
 
-  a. Open script.js.
+- Open script.js.
 
-  b. Update the API_BASE variable to point to your local server:
+- Update the API_BASE variable to point to your local server:
 
-  c. Launch index.html using a local server (e.g., VS Code Live Server).
+- Launch index.html using a local server (e.g., VS Code Live Server).
 
 
 🔒 Security Best Practices
