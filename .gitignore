@@ -1,0 +1,17 @@
+# Ignore VS Code settings (contains your password!)
+.vscode/
+
+# Ignore Java build files
+target/
+*.class
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore Node.js / Frontend dependencies
+node_modules/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
