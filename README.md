@@ -2,12 +2,8 @@
 A professional, full-stack inventory and sales management system designed for sweet shops. This application features a secure admin dashboard to manage stock, track real-time inventory, and process simulated sales with a modern, responsive UI.
 
 
-🚀 Live Links
-Frontend (Vercel): [https://sweet-shop-full-stack.vercel.app](https://sweet-shop-full-stack.vercel.app/)
-
-Backend API (Render): [https://sweet-shop-fullstack-jthb.onrender.com](https://sweet-shop-fullstack-jthb.onrender.com/)
-
-Database (Supabase): [Managed PostgreSQL instance](https://xawksevwhwrdvnmhydmo.supabase.co)
+🚀 Live Link
+[https://sweet-shop-full-stack.vercel.app](https://sweet-shop-full-stack.vercel.app/)
 
 
 🛠️ Tech Stack
@@ -39,19 +35,19 @@ Frontend
 
 - Stock Management:
 
-      Add: Integrated admin interface to input sweet names, prices, and quantities.
+  - Add: Integrated admin interface to input sweet names, prices, and quantities.
 
-      Purchase: Real-time stock reduction upon purchase with "Sold Out" state handling.
+  - Purchase: Real-time stock reduction upon purchase with "Sold Out" state handling.
 
-      Delete: Full CRUD functionality to remove inventory items.
+  - Delete: Full CRUD functionality to remove inventory items.
 
-      Search & Organize:
+  - Search & Organize:
 
-      Live Search: Filter sweets instantly by name.
+  - Live Search: Filter sweets instantly by name.
 
-      Dynamic Sorting: Organize by price (High to Low / Low to High) or newest additions.
+  - Dynamic Sorting: Organize by price (High to Low / Low to High) or newest additions.
 
-      Responsive UX: Mobile-first design using CSS Flexbox and Grid, featuring entrance animations and floating effects.
+  - Responsive UX: Mobile-first design using CSS Flexbox and Grid, featuring entrance animations and floating effects.
 
 
 ⚙️ Local Setup Instructions
