@@ -2,7 +2,6 @@ com\sweetshop\backend\JwtUtil.class
 com\sweetshop\backend\AuthController.class
 com\sweetshop\backend\DataSeeder.class
 com\sweetshop\backend\UserRepository.class
-com\sweetshop\backend\WebConfig$1.class
 com\sweetshop\backend\BackendApplication.class
 com\sweetshop\backend\SweetService.class
 com\sweetshop\backend\SecurityConfig.class
