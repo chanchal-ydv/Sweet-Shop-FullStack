@@ -1,5 +1,5 @@
-const AUTH_API = "https://sweet-shop-fullstack-jthb.onrender.com/api/auth";
-const SWEETS_API = "https://sweet-shop-fullstack-jthb.onrender.com/api/sweets";
+const AUTH_API = "https://sweet-shop-fullstack-4j89.onrender.com/api/auth";
+const SWEETS_API = "https://sweet-shop-fullstack-4j89.onrender.com/api/sweets";
 
 // UI Elements
 const authSection = document.getElementById("authSection");
