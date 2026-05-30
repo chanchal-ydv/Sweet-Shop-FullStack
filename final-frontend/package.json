@@ -1,0 +1,16 @@
+{
+  "name": "sweet-shop-frontend",
+  "version": "1.0.0",
+  "description": "Sweet Shop Inventory Manager Frontend",
+  "main": "index.html",
+  "scripts": {
+    "dev": "echo 'Use a local server to run this project'",
+    "build": "echo 'Static HTML project - no build step required'"
+  },
+  "keywords": ["sweet-shop", "inventory"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
